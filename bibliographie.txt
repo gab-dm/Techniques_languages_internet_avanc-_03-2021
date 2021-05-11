@@ -1,0 +1,3 @@
+https://stackoverflow.com/
+https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913099-transmettez-des-donnees-avec-les-formulaires
+https://www.youtube.com/watch?v=s7qtAnH5YkY&list=PLIi3uughB31wNvwP7ipnYFxXP2NBQ91j_&index=2
